@@ -13,4 +13,4 @@ I work with WordPress, play with Arduino and Raspberry Pi in my spare time and I
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: in WordPress all `action`s are `filter`s. All of them.
 
-![PattonWebz's github stats](https://github-readme-stats.vercel.app/api?username=pattonwebz&theme=synthwave&show_icons=true&count_private=true&hide=stars)
+![PattonWebz's github stats](https://github-readme-stats.vercel.app/api?username=pattonwebz&theme=buefy&show_icons=true&count_private=true&hide=stars)
