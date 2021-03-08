@@ -14,3 +14,5 @@ I work with WordPress, play with Arduino and Raspberry Pi in my spare time and I
 - ⚡ Fun fact: in WordPress all `action`s are `filter`s. All of them.
 
 ![PattonWebz's github stats](https://github-readme-stats.vercel.app/api?username=pattonwebz&theme=buefy&show_icons=true&count_private=true&hide=stars)
+
+[![Source Karma badge for @pattonwebz](https://sourcekarma-og.vercel.app/api/pattonwebz/github)](https://sourcekarma.vercel.app/pattonwebz)
